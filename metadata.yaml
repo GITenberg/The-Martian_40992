@@ -6,7 +6,7 @@ covers:
 creator:
   authors:
   - agent_name: Glasser, Allen
-    birthdate: &id001 1908
+    birthdate: 1908
     deathdate: 1971
     gutenberg_agent_id: '40926'
     url: http://www.gutenberg.org/2009/agents/40926
@@ -14,11 +14,13 @@ creator:
     aliases:
     - Hilliard, Alec Rowley
     - Hilliard, A. Rowley
-    birthdate: *id001
+    birthdate: 1908
     deathdate: 1951
     gutenberg_agent_id: '40927'
     url: http://www.gutenberg.org/2009/agents/40927
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40992#The-Martian
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2012-10-09'
 gutenberg_type: Text
