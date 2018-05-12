@@ -1,0 +1,37 @@
+_repo: The-Martian_40992
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40992-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Glasser, Allen
+    birthdate: &id001 1908
+    deathdate: 1971
+    gutenberg_agent_id: '40926'
+    url: http://www.gutenberg.org/2009/agents/40926
+  - agent_name: Hilliard, A. R. (Alec Rowley)
+    aliases:
+    - Hilliard, Alec Rowley
+    - Hilliard, A. Rowley
+    birthdate: *id001
+    deathdate: 1951
+    gutenberg_agent_id: '40927'
+    url: http://www.gutenberg.org/2009/agents/40927
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Martians -- Fiction'
+title: The Martian
+url: http://www.gutenberg.org/ebooks/40992
